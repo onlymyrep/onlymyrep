@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlymyrep&show_icons=true&theme=tokyonight)](https://github.com/onlymyrep/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlymyrep&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/onlymyrep/github-readme-stats)
 
 <div id="paft" align="left">
    <div id="paft" align="left">
