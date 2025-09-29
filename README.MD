@@ -13,5 +13,7 @@
 </div> 
 
 <div align="center">
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Ilyas!;Full+stack+developer;Swift+enthusiast;DevOps&center=true&size=30)
+
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Ilyas!;Full+stack+developer;Swift+enthusiast;DevOps&center=true&size=30)
+
 </div>
