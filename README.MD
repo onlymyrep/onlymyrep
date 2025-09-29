@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlymyrep&show_icons=true&theme=tokyonight&rank_icon=percentile)](https://github.com/onlymyrep/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onlymyrep&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true)](https://github.com/onlymyrep/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlymyrep&layout=compact)
 
