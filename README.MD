@@ -17,3 +17,8 @@
     <img src="./animation.gif.gif" width="500" alt="Animation"/>
 </div>
 
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Ilyas!;Full+stack+developer;React+enthusiast;Open+source+contributor&center=true&size=30)
+
+</div>
