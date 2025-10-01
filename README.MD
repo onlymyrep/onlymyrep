@@ -1,5 +1,5 @@
-<div id="paft" align="left">
-   <div id="paft" align="left">
+<div id="paft" align="center">
+   <div id="paft" align="center">
     <a href="https://t.me/bartonjo">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>&nbsp;
     </a>
